@@ -1,0 +1,35 @@
+Basics
+DSA
+
+iterators
+regexj
+decorators
+lambdas
+list comprehension
+genrators
+
+oops - class inheritance
+dunder
+data hiding
+custom methods
+
+package manager - pip, conda
+
+frameworks - flask, django [model view controller], fast API
+
+test - pytest, selenium, pyunit
+
+Applications - tkinter, kivi, qt
+
+pandas, tensor flow, keras, skith learn
+
+
+tech with tim
+sendex
+codebasics
+krish naik
+code bullet
+cs dojo
+traversy media
+telusko
+

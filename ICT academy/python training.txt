@@ -1,0 +1,30 @@
+pyrobot
+erlang
+pyscript
+tiobe - ranking
+pypi.org
+blender
+kivy
+sympy
+numba
+walrus
+wordpress
+odoo
+pyscript
+
+https://www.netcad.com/portal/user/activate
+pip install pywhatkit
+
+
+Anaconda
+pip install packagename
+
+Google colab/Juoyter notebook
+!pip install packagename
+
+pyacharm community
+requirement.txt
+then packages name
+
+web scrapping - scrappy
+automation 
